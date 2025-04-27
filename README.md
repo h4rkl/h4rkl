@@ -1,4 +1,4 @@
-## hårkl - stealth git profile of a Software Eng who does Solana Blockchain dev
+# hårkl - stealth git profile of a Software Eng who does Solana Blockchain dev
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4rkl&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile&hide=contribs,issues)
 
