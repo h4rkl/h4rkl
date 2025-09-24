@@ -1,6 +1,6 @@
 # hårkl
 
-> Stealth git profile of a Software Eng who moonlights in Solana Blockchain dev
+> I work @SolanaFndn as of May 2025 managing all things www
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4rkl&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile&hide=contribs,issues)
 
