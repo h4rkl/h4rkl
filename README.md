@@ -2,6 +2,4 @@
 
 > I work @SolanaFndn as of May 2025 managing all things www
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4rkl&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile&hide=contribs,issues)
-
 [<img src="https://img.shields.io/badge/Twitter-harkl_-%231DA1F2.svg?style=flat-square&logo=twitter" alt="Twitter">](https://x.com/harkl_)
